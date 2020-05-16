@@ -1,0 +1,44 @@
+.navigation {
+display: inline-block;
+height: 20px;
+font-size: 14px;
+font-family: Arial, Helvetica, sans-serif;
+color: white;
+padding: 5px;
+background-color: grey;
+padding: 20px;
+}
+
+#container {
+    background-color: lightgrey;
+    border-color: black;
+}
+
+.left {
+    float: left;
+    width: 29%;
+    background-color: blue;
+    height: 600px;
+}
+
+.right {
+    float: right;
+    width: 70%;
+    background-color: green;
+    height: 600px;
+}
+
+.left_inner_top {
+    background-color: lightblue;
+    height: 30%;
+    text-align: center;
+    padding-top: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.left_inner_bottom {
+    color: white;
+    height: 50%;
+    padding-left: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+}
